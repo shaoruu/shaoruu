@@ -1,1 +1,1 @@
-<img src="hi.jpg" />
+![](https://i.imgur.com/5fnwxrr.jpg)
